@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+I'm a Junior Back-End Developer who is happy to learn new things.
+- 📖 I’m currently learning Back End Development
+- 🧑‍💻 Languages: Javascript, Typescript
+- 📫 How to reach me: https://www.linkedin.com/in/surya-kristanto-400428242/
+- ⚡ Fun fact: I'm a gamer
 <!--
 **SuryaKristanto/SuryaKristanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
