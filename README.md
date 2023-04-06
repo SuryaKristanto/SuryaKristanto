@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm a Junior Back-End Developer who is happy to learn new things.
 - 📖 I’m currently learning Back End Development
-- 🧑‍💻 Languages: Javascript, Typescript
-- ⚡ Fun fact: I'm a gamer
+- 🧑‍💻 **Languages:** Javascript, Typescript
+- ⚡ **Fun fact:** I'm a gamer
 <!--
 **SuryaKristanto/SuryaKristanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
