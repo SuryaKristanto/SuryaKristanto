@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Surya Kristanto 👋
 
-<!--
-**SuryaKristanto/suryakristanto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Backend-leaning Web Developer | 🛠️ Laravel & Node.js | 💾 MySQL & Redis  
+🚀 Eager to build clean, scalable apps — one line of code at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Snapshot
+- **Languages**: PHP, JavaScript, TypeScript
+- **Backend**: Laravel, Express.js, NestJS
+- **Frontend**: Blade, React, Next.js
+- **Databases**: MySQL, Redis, MongoDB
+
+---
+
+### 🧠 Currently Exploring
+- Clean architecture & backend best practices  
+- NestJS + React for full-stack projects  
+- CI/CD & deployment workflows
+
+---
+
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/d-surya-kristanto/) • [GitHub](https://github.com/yourusername)  
+Always open to learning, collaboration, or just a good tech chat!
+
+---
